@@ -230,7 +230,7 @@
 - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
 ![Configuración con de cuenta](images/StudentAcount.png)
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
-  - Repositorio de Github: https://github.com/YeyderJHJL/Laboratorio-PWEB2.git
+  -Repositorio de Github: https://github.com/YeyderJHJL/Laboratorio-PWEB2.git
   - Hola mundo en editor vim:
   ![Hola Mundo](images/HolaMundo.png)
   - Bienvenida con editor vim:
@@ -238,7 +238,7 @@
   - Imprimir nombre con editor vim:
   ![Imprimir nombre](images/IngresoNombre.png)
   - commits realizados:
-  ![commits](images\commits.png)
+  ![commits](images/commits.png)
 
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
 - Debería haber minimo 7 commits:
