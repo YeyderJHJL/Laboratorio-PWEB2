@@ -226,8 +226,20 @@
 
 ## EJERCICIOS PROPUESTOS
 - Cree una cuenta de usuario en GitHub usando su correo institucional.
+![Github con cuenta institucional](images/emailgithub.png)
 - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
+![Configuración con de cuenta](images/StudentAcount.png)
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
+  - Repositorio de Github: https://github.com/YeyderJHJL/Laboratorio-PWEB2.git
+  - Hola mundo en editor vim:
+  ![Hola Mundo](images/HolaMundo.png)
+  - Bienvenida con editor vim:
+  ![Bienvenida](images/Bienvenida.png)
+  - Imprimir nombre con editor vim:
+  ![Imprimir nombre](images/IngresoNombre.png)
+  - commits realizados:
+  ![commits](images\commits.png)
+
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
 - Debería haber minimo 7 commits:
     - 1er commit - Creación de la plantilla "Calculator.java"
@@ -247,56 +259,6 @@
 #
 
 ## REFERENCIAS
-- https://git-scm.com/book/es/v2
 - https://guides.github.com/
 - https://www.w3schools.com/java/default.asp
-
-- Nano vs. Emacs vs. Vim (Editor Wars!) - https://www.linuxtrainingacademy.com/nano-emacs-vim/
-- Emacs vs Vim - https://www.linuxteaching.com/article/emacs_vs_vim
-- Vim or Emacs? The Debate is over… - https://cmd.com/blog/vim-or-emacs-the-debate-is-over/
-- Por qué un editor de texto de hace 40 años machaca al "todopoderoso" Atom - https://www.xataka.com/aplicaciones/por-que-un-editor-de-texto-de-hace-40-anos-le-da-sopas-con-ondas-al-todopoderoso-atom
-
-- Tutorial de Vim - http://www.truth.sk/vim/vimbook-OPL.pdf
-- Teclado en Vim - http://www.viemu.com/vi-vim-cheat-sheet.gif
-- Cómo Configurar VIM como VS Code - https://www.youtube.com/watch?v=XgQFzi3VkC8
-
-- Empezando el Curso de Java - https://www.youtube.com/playlist?list=PLw8RQJQ8K1yQDqPyDRzt-h8YlBj96OwMP
-- The Java® Language Specification Java SE 11 Edition - https://docs.oracle.com/javase/specs/jls/se11/html/index.html
-- The Java™ Tutorials - https://docs.oracle.com/javase/tutorial/
-- Java Course - http://www.vias.org/javacourse/wrapnt4F38D8_object_oriented_programming.html
-
-#
-
-[license]: https://img.shields.io/github/license/rescobedoq/pw2?label=rescobedoq
-[license-file]: https://github.com/rescobedoq/pw2/blob/main/LICENSE
-
-[downloads]: https://img.shields.io/github/downloads/rescobedoq/pw2/total?label=Downloads
-[releases]: https://github.com/rescobedoq/pw2/releases/
-
-[last-commit]: https://img.shields.io/github/last-commit/rescobedoq/pw2?label=Last%20Commit
-
-[Debian]: https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white
-[debian-site]: https://www.debian.org/index.es.html
-
-[Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[git-site]: https://git-scm.com/
-
-[GitHub]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[github-site]: https://github.com/
-
-[Vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
-[vim-site]: https://www.vim.org/
-
-[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[java-site]: https://docs.oracle.com/javase/tutorial/
-
-
-[![Debian][Debian]][debian-site]
-[![Git][Git]][git-site]
-[![GitHub][GitHub]][github-site]
-[![Vim][Vim]][vim-site]
-[![Java][Java]][java-site]
-
-[![License][license]][license-file]
-[![Downloads][downloads]][releases]
-[![Last Commit][last-commit]][releases]
+- https://open-bootcamp.com/

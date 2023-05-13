@@ -2,7 +2,7 @@ import java.util.*;
 
 //Imprimir nombre
 
-public class ingresoNombre{
+public class IngresoNombre{
 
 	public static void main(String[] args){
 		
