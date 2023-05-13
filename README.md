@@ -226,25 +226,18 @@
 
 ## EJERCICIOS PROPUESTOS
 - Cree una cuenta de usuario en GitHub usando su correo institucional.
-![Github con cuenta institucional](images/emailgithub.png)
+![Github con cuenta institucional](images/emailgithub.png)  
 - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
-![Configuración con de cuenta](images/StudentAcount.png)
+![Configuración con de cuenta](images/StudentAcount.png)  
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
   -Repositorio de Github: https://github.com/YeyderJHJL/Laboratorio-PWEB2.git
-  - Hola mundo en editor vim:
-  <br>
+  - Hola mundo en editor vim:  
   ![Hola Mundo](images/HolaMundo.png)
-  <br>
-  - Bienvenida con editor vim:
-  <br>
-  ![Bienvenida](images/Bienvenida.png)
-  <br>
-  - Imprimir nombre con editor vim:
-  <br>
-  ![Imprimir nombre](images/IngresoNombre.png)
-  <br>
-  - commits realizados:
-  <br>
+  - Bienvenida con editor vim:  
+  ![Bienvenida](images/Bienvenida.png)  
+  - Imprimir nombre con editor vim:  
+  ![Imprimir nombre](images/IngresoNombre.png)  
+  - commits realizados:  
   ![commits](images/commits.png)
 
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
@@ -260,9 +253,16 @@
 
 ## CUESTIONARIO
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?
-- ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
-- ¿Qué son los entándares de codificación?
+Git permite el control de versiones en el desarrollo de software, lo que significa que se puede rastrear y revertir cambios en el código. Esto es fundamental para trabajar en equipo y mantener un historial del código. Por otro lado, GitHub, como plataforma de alojamiento de repositorios Git, permite la colaboración en equipo en tiempo real. Los miembros del equipo pueden trabajar en el mismo proyecto y realizar cambios sin interferir en el trabajo de otros. Ambos permiten el almacenamiento en la nube del código fuente, lo que significa que el código siempre estará disponible y no se perderá en caso de un fallo en el sistema.
 
+- ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
+  1. Respetar la propiedad intelectual: asegurarse de que cualquier trabajo que se haya obtenido de terceros se utilice de forma legal y ética, y se dé crédito adecuado a las fuentes.
+  2. No comprometer la seguridad: evitar la publicación o el intercambio de información confidencial, y asegurarse de que los repositorios estén protegidos con las medidas de seguridad apropiadas.
+  3. Mantener un historial claro: proporcionar descripciones claras y concisas de los commits y asegurarse de que las solicitudes de extracción incluyan toda la información necesaria.
+  4. Comunicar los cambios: mantener a los miembros del equipo informados sobre los cambios que se están realizando y las razones detrás de ellos.
+  5. Ser respetuoso: mantener un ambiente de trabajo respetuoso y colaborativo, evitando enfrentamientos y asegurándose de tratar a los demás con respeto y profesionalismo.
+- ¿Qué son los entándares de codificación?
+Los estándares de codificación son un conjunto de reglas y pautas que se establecen con el fin de normalizar la forma de escribir código en un proyecto de desarrollo de software. Pueden incluir reglas sobre la indentación, el uso de espacios o tabulaciones, la longitud de las líneas de código, la nomenclatura de variables y funciones, la documentación del código, entre otros aspectos. La implementación de estos estándares puede ayudar a garantizar cierto nivel de consistencia en el código y mejorar la colaboración y eficiencia del equipo de desarrollo.
 #
 
 ## REFERENCIAS
