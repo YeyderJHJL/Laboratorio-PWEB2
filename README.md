@@ -240,15 +240,6 @@
   - commits realizados:  
   ![commits](images/commits.png)
 
-- Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
-- Debería haber minimo 7 commits:
-    - 1er commit - Creación de la plantilla "Calculator.java"
-    - 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().
-    - 3er commit - Uniendo rama "ramma-sub" al "main" para obtener metodo sub().
-    - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
-    - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
-    - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
-
 #
 
 ## CUESTIONARIO
